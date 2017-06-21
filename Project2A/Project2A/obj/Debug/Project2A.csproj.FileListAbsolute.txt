@@ -1,0 +1,9 @@
+C:\Users\timsi\Desktop\Classes\CIS 146\Project2A\Project2A\bin\Debug\Project2A.exe.config
+C:\Users\timsi\Desktop\Classes\CIS 146\Project2A\Project2A\bin\Debug\Project2A.exe
+C:\Users\timsi\Desktop\Classes\CIS 146\Project2A\Project2A\bin\Debug\Project2A.pdb
+C:\Users\timsi\Desktop\Classes\CIS 146\Project2A\Project2A\obj\Debug\Project2A.csprojResolveAssemblyReference.cache
+C:\Users\timsi\Desktop\Classes\CIS 146\Project2A\Project2A\obj\Debug\Project2A.MultiMachine.resources
+C:\Users\timsi\Desktop\Classes\CIS 146\Project2A\Project2A\obj\Debug\Project2A.Properties.Resources.resources
+C:\Users\timsi\Desktop\Classes\CIS 146\Project2A\Project2A\obj\Debug\Project2A.csproj.GenerateResource.Cache
+C:\Users\timsi\Desktop\Classes\CIS 146\Project2A\Project2A\obj\Debug\Project2A.exe
+C:\Users\timsi\Desktop\Classes\CIS 146\Project2A\Project2A\obj\Debug\Project2A.pdb
