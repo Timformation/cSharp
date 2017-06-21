@@ -1,0 +1,12 @@
+\\scc-empfile.ccs.spokane.cc.wa.us\userst\tom.affholter\documents\visual studio 2015\Projects\Address\Address\bin\Debug\Address.exe.config
+\\scc-empfile.ccs.spokane.cc.wa.us\userst\tom.affholter\documents\visual studio 2015\Projects\Address\Address\bin\Debug\Address.exe
+\\scc-empfile.ccs.spokane.cc.wa.us\userst\tom.affholter\documents\visual studio 2015\Projects\Address\Address\bin\Debug\Address.pdb
+\\scc-empfile.ccs.spokane.cc.wa.us\userst\tom.affholter\documents\visual studio 2015\Projects\Address\Address\obj\Debug\Address.csprojResolveAssemblyReference.cache
+\\scc-empfile.ccs.spokane.cc.wa.us\userst\tom.affholter\documents\visual studio 2015\Projects\Address\Address\obj\Debug\Address.Form1.resources
+\\scc-empfile.ccs.spokane.cc.wa.us\userst\tom.affholter\documents\visual studio 2015\Projects\Address\Address\obj\Debug\Address.Properties.Resources.resources
+\\scc-empfile.ccs.spokane.cc.wa.us\userst\tom.affholter\documents\visual studio 2015\Projects\Address\Address\obj\Debug\Address.csproj.GenerateResource.Cache
+\\scc-empfile.ccs.spokane.cc.wa.us\userst\tom.affholter\documents\visual studio 2015\Projects\Address\Address\obj\Debug\Address.exe
+\\scc-empfile.ccs.spokane.cc.wa.us\userst\tom.affholter\documents\visual studio 2015\Projects\Address\Address\obj\Debug\Address.pdb
+C:\Users\timsi\Desktop\Classes\CIS 146\Address (1)\Address\Address\bin\Debug\Address.exe.config
+C:\Users\timsi\Desktop\Classes\CIS 146\Address (1)\Address\Address\obj\Debug\Address.exe
+C:\Users\timsi\Desktop\Classes\CIS 146\Address (1)\Address\Address\obj\Debug\Address.pdb
