@@ -1,0 +1,11 @@
+C:\Users\tim\Desktop\CIS 256 C#\TheaterTest\TheaterTest\bin\Debug\TheaterTest.exe.config
+C:\Users\tim\Desktop\CIS 256 C#\TheaterTest\TheaterTest\bin\Debug\TheaterTest.exe
+C:\Users\tim\Desktop\CIS 256 C#\TheaterTest\TheaterTest\bin\Debug\TheaterTest.pdb
+C:\Users\tim\Desktop\CIS 256 C#\TheaterTest\TheaterTest\bin\Debug\MovieObj.dll
+C:\Users\tim\Desktop\CIS 256 C#\TheaterTest\TheaterTest\bin\Debug\MovieObj.pdb
+C:\Users\tim\Desktop\CIS 256 C#\TheaterTest\TheaterTest\obj\Debug\TheaterTest.csprojResolveAssemblyReference.cache
+C:\Users\tim\Desktop\CIS 256 C#\TheaterTest\TheaterTest\obj\Debug\TheaterTest.Form1.resources
+C:\Users\tim\Desktop\CIS 256 C#\TheaterTest\TheaterTest\obj\Debug\TheaterTest.Properties.Resources.resources
+C:\Users\tim\Desktop\CIS 256 C#\TheaterTest\TheaterTest\obj\Debug\TheaterTest.csproj.GenerateResource.Cache
+C:\Users\tim\Desktop\CIS 256 C#\TheaterTest\TheaterTest\obj\Debug\TheaterTest.exe
+C:\Users\tim\Desktop\CIS 256 C#\TheaterTest\TheaterTest\obj\Debug\TheaterTest.pdb

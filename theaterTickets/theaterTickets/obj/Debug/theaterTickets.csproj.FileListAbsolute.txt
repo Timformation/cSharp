@@ -1,0 +1,9 @@
+C:\Users\tim\Desktop\CIS 256 C#\theaterTickets\theaterTickets\bin\Debug\theaterTickets.exe.config
+C:\Users\tim\Desktop\CIS 256 C#\theaterTickets\theaterTickets\bin\Debug\theaterTickets.exe
+C:\Users\tim\Desktop\CIS 256 C#\theaterTickets\theaterTickets\bin\Debug\theaterTickets.pdb
+C:\Users\tim\Desktop\CIS 256 C#\theaterTickets\theaterTickets\obj\Debug\theaterTickets.csprojResolveAssemblyReference.cache
+C:\Users\tim\Desktop\CIS 256 C#\theaterTickets\theaterTickets\obj\Debug\theaterTickets.Properties.Resources.resources
+C:\Users\tim\Desktop\CIS 256 C#\theaterTickets\theaterTickets\obj\Debug\theaterTickets.csproj.GenerateResource.Cache
+C:\Users\tim\Desktop\CIS 256 C#\theaterTickets\theaterTickets\obj\Debug\theaterTickets.exe
+C:\Users\tim\Desktop\CIS 256 C#\theaterTickets\theaterTickets\obj\Debug\theaterTickets.pdb
+C:\Users\tim\Desktop\CIS 256 C#\theaterTickets\theaterTickets\obj\Debug\theaterTickets.theaterTickets.resources
