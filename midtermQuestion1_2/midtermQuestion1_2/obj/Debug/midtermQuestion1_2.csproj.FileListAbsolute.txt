@@ -1,0 +1,8 @@
+C:\Users\tim\Desktop\CIS 256 C#\midtermQuestion1_2\midtermQuestion1_2\bin\Debug\midtermQuestion1_2.exe.config
+C:\Users\tim\Desktop\CIS 256 C#\midtermQuestion1_2\midtermQuestion1_2\bin\Debug\midtermQuestion1_2.exe
+C:\Users\tim\Desktop\CIS 256 C#\midtermQuestion1_2\midtermQuestion1_2\bin\Debug\midtermQuestion1_2.pdb
+C:\Users\tim\Desktop\CIS 256 C#\midtermQuestion1_2\midtermQuestion1_2\obj\Debug\midtermQuestion1_2.csprojResolveAssemblyReference.cache
+C:\Users\tim\Desktop\CIS 256 C#\midtermQuestion1_2\midtermQuestion1_2\obj\Debug\midtermQuestion1_2.Properties.Resources.resources
+C:\Users\tim\Desktop\CIS 256 C#\midtermQuestion1_2\midtermQuestion1_2\obj\Debug\midtermQuestion1_2.csproj.GenerateResource.Cache
+C:\Users\tim\Desktop\CIS 256 C#\midtermQuestion1_2\midtermQuestion1_2\obj\Debug\midtermQuestion1_2.exe
+C:\Users\tim\Desktop\CIS 256 C#\midtermQuestion1_2\midtermQuestion1_2\obj\Debug\midtermQuestion1_2.pdb

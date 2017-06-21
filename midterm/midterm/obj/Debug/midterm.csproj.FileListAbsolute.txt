@@ -1,0 +1,9 @@
+C:\Users\tim\Desktop\CIS 256 C#\midterm\midterm\obj\Debug\midterm.csprojResolveAssemblyReference.cache
+C:\Users\tim\Desktop\CIS 256 C#\midterm\midterm\obj\Debug\midterm.Form1.resources
+C:\Users\tim\Desktop\CIS 256 C#\midterm\midterm\obj\Debug\midterm.Properties.Resources.resources
+C:\Users\tim\Desktop\CIS 256 C#\midterm\midterm\obj\Debug\midterm.csproj.GenerateResource.Cache
+C:\Users\tim\Desktop\CIS 256 C#\midterm\midterm\bin\Debug\midterm.exe.config
+C:\Users\tim\Desktop\CIS 256 C#\midterm\midterm\bin\Debug\midterm.exe
+C:\Users\tim\Desktop\CIS 256 C#\midterm\midterm\bin\Debug\midterm.pdb
+C:\Users\tim\Desktop\CIS 256 C#\midterm\midterm\obj\Debug\midterm.exe
+C:\Users\tim\Desktop\CIS 256 C#\midterm\midterm\obj\Debug\midterm.pdb
