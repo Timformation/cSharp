@@ -1,0 +1,7 @@
+C:\Users\tim\Desktop\CIS 256 C#\podAssignment\podAssignment\bin\Debug\netstandard1.4\podAssignment.deps.json
+C:\Users\tim\Desktop\CIS 256 C#\podAssignment\podAssignment\bin\Debug\netstandard1.4\podAssignment.dll
+C:\Users\tim\Desktop\CIS 256 C#\podAssignment\podAssignment\bin\Debug\netstandard1.4\podAssignment.pdb
+C:\Users\tim\Desktop\CIS 256 C#\podAssignment\podAssignment\obj\Debug\netstandard1.4\podAssignment.csprojResolveAssemblyReference.cache
+C:\Users\tim\Desktop\CIS 256 C#\podAssignment\podAssignment\obj\Debug\netstandard1.4\podAssignment.AssemblyInfo.cs
+C:\Users\tim\Desktop\CIS 256 C#\podAssignment\podAssignment\obj\Debug\netstandard1.4\podAssignment.dll
+C:\Users\tim\Desktop\CIS 256 C#\podAssignment\podAssignment\obj\Debug\netstandard1.4\podAssignment.pdb
